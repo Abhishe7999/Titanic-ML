@@ -1,5 +1,9 @@
+
+.venv/
+.__pycache__/
+
+.vscode/
+
 *.pkl
 *.csv
-.__pycache__/
-.venv/
 *.ipynb
